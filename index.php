@@ -1,6 +1,6 @@
 <?php
 
-echo 'v1<br><br>';
+echo 'v2<br><br>';
 echo 'hello openshift world';
 ##
 ?>
