@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>CSS Website Layout</title>
+<title>Openshift Show Case</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -24,7 +24,7 @@ body {
 <div class="header">
   <h1>
   <?php
-    echo 'Hello Openshift World';
+    echo 'Hello Openshift World 2';
   ?>
   </h1>
 </div>
