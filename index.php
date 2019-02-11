@@ -24,7 +24,7 @@ body {
 <div class="header">
   <h1>
   <?php
-    echo 'Hello Openshift World';
+    echo 'Hello Openshift World mit PlusServer';
   ?>
   </h1>
 </div>
